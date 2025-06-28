@@ -1,0 +1,1 @@
+// on load reach out to slack api to get active channels 
